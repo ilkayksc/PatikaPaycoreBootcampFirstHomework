@@ -1,5 +1,5 @@
-# IlkayKesici_HW1
-Patika Dev Paycore .Net Bootcamp First Homework
+# Patika Dev Paycore .Net Bootcamp First Homework
+
 It is a project that takes values such as interest rate, principal and expiry date from the user and calculates compound interest.
 
 ## Project Views
